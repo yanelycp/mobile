@@ -1,0 +1,52 @@
+http://xmn.io/1oFhnqW = Run a Xamarin app 
+http://xmn.io/1TDsehn = Edit an app’s user interface
+http://xmn.io/prebuilt = Get started with a pre-built app
+
+**************************************
+personalizar app
+
+https://developer.android.com/training/multiscreen/screensizes.html
+https://developer.android.com/training/material/theme.html
+
+https://developer.android.com/training/implementing-navigation/nav-drawer.html#Init
+https://developer.xamarin.com/guides/android/getting_started/installation/windows/
+
+menu
+http://cursoandroidstudio.blogspot.com/2014/08/crear-menu.html
+http://www.tutorialeshtml5.com/2014/06/menu-lateral-slider-desplegable-drawerlayout.html
+http://www.limecreativelabs.com/usando-drawerlayout-para-crear-un-navigation-drawer/
+http://www.hermosaprogramacion.com/2014/11/android-navigation-drawer-tutorial/
+http://pamarke.com/blog/2013/05/17/desarrollar-un-menu-desplegable-en-android/
+
+notificaciones
+http://www.tutorialeshtml5.com/2012/12/tutorial-android-lanzar-una.html
+
+actionbar
+http://elbauldeandroid.blogspot.com/2013/10/actionbar-android-en-construccion.html
+
+boton
+http://www.hermosaprogramacion.com/2016/02/controles-tutorial-botones-android/
+
+
+--consumuR ADD
+http://www.hermosaprogramacion.com/2015/12/consumir-un-servicio-web-rest-desde-android/
+
+-------- enviar datos
+http://www.tutorialeshtml5.com/2012/11/android-enviar-datos-des-de-android-al.html
+
+http://www.tutorialeshtml5.com/2015/02/android-guardar-datos-en-la-aplicacion.html
+
+---------  menu
+http://elbauldeandroid.blogspot.com/2013/10/actionbar-android-en-construccion.html
+
+http://www.tutorialeshtml5.com/2014/06/menu-lateral-slider-desplegable-drawerlayout.html
+
+*------------
+http://desarrollador-android.com/desarrollo/formacion/empezar-formacion/crear-tu-primera-app/crear-una-interfaz-de-usuario/
+
+wrap_conten - se acoplarse
+
+http://www.sgoliver.net/blog/menus-en-android-i-conceptos-basicos/
+
+http://www.proyectosimio.com/es/programacion-android-menu-contextual-registerforcontextmenu/
+
